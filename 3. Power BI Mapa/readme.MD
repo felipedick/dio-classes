@@ -16,3 +16,5 @@ A utilização de um gráfico de barras proporcionará uma visualização mais a
 
 Assim, uma nova página foi adicionada ao relatório com essa proposta.
 
+![Pagina 4](./3.1%20Power%20BI%20Melhoria.PNG) 
+
