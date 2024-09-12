@@ -6,7 +6,7 @@ Criar a página "3" do pdf com informações abaixo:
 - Visual mapa 2: Soma de lucro (profit) por país 
 
 
-![Pagina 3](3.%20Power%20BI%20Mapa/3.1%20Power%20BI%20Página%203.PNG)
+![Pagina 3](./3.1%20Power%20BI%20Página%203.PNG)
 
 # 2.Melhorias
 Dada a presença de mais de dois segmentos, recomendo substituir o gráfico de pizza por um gráfico de barras. 
