@@ -10,13 +10,28 @@ Criar tabelas de dimensão e fato a partir de uma tabela única utilizando Power
 
 ![Star Schema](./Images/0.%20Modelo%20Star%20Schema.PNG)
 
+-Realizado alterações vs desafio proposto nas tabelas
+   - Criado tabela D_Descontos referenciando nível (nenhum, baixo, médio e alto), conforme o desconto percentual
+
+   ![DESCONTO](./Images/2.%20Tabela_Desconto.PNG)
+
+   - Criado tabela D_Manufacturing_Price referenciando custo de manufatura de acordo com o produto da venda
+
+     ![MANUFACTURING PRICE](./Images/3.%20Tabela%20Manufacturing%20Price.PNG))
+   
+   - Tabela D_Produtos_Detalhes criada mas não utilizada devido a baixa eficiência da mesma em comparação com utilização direto das variáveis na tabela fato
 
 -Realizado criação de 3 Funções DAX: CALENDARAUTO, Lucro e Vendas Acumuladas
+   ![cALENDAR](./Images/1.%20Tabela%20Datas%20DAX.PNG)
+   
+   ![LUCRO](./Images/4.%20Grafico%20Lucro%20(DAX)%20vs%20Profit.PNG)
+   
+   ![vENDAS DAX](./Images/5.%20Vendas%20acumuladas%20DAX.PNG)
+   
+   ![vENDAS DAX GRAFICO](./Images/6.%20Vendas%20acumuladas%20Gr%C3%A1fico.PNG)
 
--Realizado alterações vs desafio proposto
-   - Criado tabela D_Descontos referenciando nível (nenhum, baixo, médio e alto), conforme o desconto percentual
-   - Criado tabela D_Manufacturing_Price referenciando custo de manufatura de acordo com o produto da venda
-   - Tabela D_Produtos_Detalhes criada mas não utilizada devido a baixa eficiência da mesma em comparação com utilização direto das variáveis na tabela fato
+
+
 
 ## Tabelas Criadas
 
