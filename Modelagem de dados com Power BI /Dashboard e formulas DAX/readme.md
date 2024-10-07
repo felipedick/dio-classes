@@ -88,8 +88,8 @@ Feito conforme solicitado no exercicio mas na prática foi constatado que agrega
    - **Profit**: Lucro
    - **Date**: Data da venda.
 
-### 1. **D_Calendário**
-   - Criada através da função DAX `CALENDAR()` para gerenciamento de datas. 
+### 8. **D_Calendário**
+   - Criada através da função DAX `CALENDAR()` para gerenciamento de datas com hierarquia (ano, trimestre, mês, dia). 
 
 ## Funções DAX Utilizadas
 
@@ -108,6 +108,9 @@ Feito conforme solicitado no exercicio mas na prática foi constatado que agrega
 
 ## Arquivo PBIX
 O arquivo `.pbix` com a solução completa está disponível neste repositório.
+
+## Melhorias propostas
+Mais medidas poderiam ser criadas via DAX, especialmente para considerar métricas de comparação entre anos e meses, muito utilizado para melhor controle financeiro de modo a ter uma visão maius clara do status do negócio e se há melhoras (especialmente ano vs ano) e efeitos de sazonalidade (especialmente mês a mês) .
 
 ## Conclusão
 
