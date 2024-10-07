@@ -10,25 +10,28 @@ Criar tabelas de dimensão e fato a partir de uma tabela única utilizando Power
 
 ![Star Schema](./Images/0.%20Modelo%20Star%20Schema.PNG)
 
--Realizado alterações vs desafio proposto nas tabelas
+- Realizado alterações vs desafio proposto nas tabelas
    - Criado tabela D_Descontos referenciando nível (nenhum, baixo, médio e alto), conforme o desconto percentual
-
    ![DESCONTO](./Images/2.%20Tabela_Desconto.PNG)
 
    - Criado tabela D_Manufacturing_Price referenciando custo de manufatura de acordo com o produto da venda
-
-     ![MANUFACTURING PRICE](./Images/3.%20Tabela%20Manufacturing%20Price.PNG))
+     ![MANUFACTURING PRICE](./Images/3.%20Tabela%20Manufacturing%20Price.PNG)
    
    - Tabela D_Produtos_Detalhes criada mas não utilizada devido a baixa eficiência da mesma em comparação com utilização direto das variáveis na tabela fato
 
--Realizado criação de 3 Funções DAX: CALENDARAUTO, Lucro e Vendas Acumuladas
-   ![cALENDAR](./Images/1.%20Tabela%20Datas%20DAX.PNG)
-   
-   ![LUCRO](./Images/4.%20Grafico%20Lucro%20(DAX)%20vs%20Profit.PNG)
-   
-   ![vENDAS DAX](./Images/5.%20Vendas%20acumuladas%20DAX.PNG)
-   
-   ![vENDAS DAX GRAFICO](./Images/6.%20Vendas%20acumuladas%20Gr%C3%A1fico.PNG)
+- Realizado criação de 3 Funções DAX: CALENDAR, Lucro e Vendas Acumuladas
+
+   Função CALENDAR
+  ![cALENDAR](./Images/1.%20Tabela%20Datas%20DAX.PNG)
+
+   Função Lucro e gráfico <br>
+  ![LUCRO](./Images/4.%20Grafico%20Lucro%20(DAX)%20vs%20Profit.PNG)
+
+   Função Vendas acumuladas
+  ![vENDAS DAX](./Images/5.%20Vendas%20acumuladas%20DAX.PNG)
+
+   Gráfico vendas mensais e acumulado
+  ![vENDAS DAX GRAFICO](./Images/6.%20Vendas%20acumuladas%20Gr%C3%A1fico.PNG)
 
 
 
@@ -61,7 +64,7 @@ Feito conforme solicitado no exercicio mas na prática foi constatado que agrega
 
 ### 5. **D_Manufacturing_Price**
    Foi identificado que o manufacturing price é constante para o produto, com isso, o parâmetro foi removido da tabela fato e foi criado uma nova tabela com a informação
-    - **ID_produto**: Chave primária da tabela.
+   - **ID_produto**: Chave primária da tabela.
    - **Produto**: nome do produto
    - **Manufacturing_Price**: custo de manufatura, constante conforme o produto.
 
