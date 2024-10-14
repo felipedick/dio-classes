@@ -7,15 +7,15 @@ Este projeto consiste na criação e implementação de uma base de dados no **A
 O objetivo deste projeto foi conectar uma base de dados hospedada no **Azure SQL** ao **Power BI**, aplicar técnicas de limpeza e transformação, e construir relatórios confiáveis que pudessem auxiliar na tomada de decisões. A transformação dos dados envolveu diversas etapas para assegurar que os dados fossem consistentes e precisos antes da análise final.
 Abaixo um print da base hospedada no Azure.
 
-Azure - configuração
+Azure - configuração <br>
 ![Azure](./Images/Azure%20part1.PNG)
 
 
-Azure - databases e tabelas
+Azure - databases e tabelas <br>
 ![Databases e Tabelas](./Images/Azure%20part2%20Databases%20%26%20Tables.PNG)
 
 
-Azure - Conteúdo de uma das tabelas
+Azure - Conteúdo de uma das tabelas <br>
 ![Conteudo Tabela](./Images/Azure%20part3%20conteudo%20tabela.PNG)
 
 ## Principais Etapas de Limpeza e Transformação
