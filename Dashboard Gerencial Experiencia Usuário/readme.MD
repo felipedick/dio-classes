@@ -11,6 +11,8 @@ Este projeto de **Power BI** tem como objetivo a criação de um **dashboard int
 - Implementação de botões de **navegabilidade** entre as páginas, com uso de **contraste de cores** e design focado em **focalização** e **seleção**, facilitando a interação do usuário com o relatório.
 Abaixo um exemplo com focalização na seleção do gráfico de vendas por segmento (em contraste roxo)
 
+![Foco Segmentacao](./Images/Pagina%201%20-%20focalizacao.PNG)
+
 ### 3. Definição de Gráficos e Métricas Relevantes
 - Para cada página do relatório (Vendas, Lucro e Detalhe de Vendas), foram definidos os **gráficos e métricas mais relevantes**, garantindo foco em informações críticas para o negócio.
 
@@ -31,13 +33,20 @@ Abaixo um exemplo com focalização na seleção do gráfico de vendas por segme
   - Vendas por país e segmento (capilaridade)
 - Foco em identificar padrões de sazonalidade e variações de vendas por regiões e segmentos.
 
+![Pagina 1](./Images/Pagina%201%20-%20Vendas.PNG)
+
 ### Página de **Lucro**
 - **Métricas principais**:
   - Lucratividade trimestral (relatórios financeiros são geralmente mais relevantes fechamento de trimestre) 
   - Comparação de **preço vs custo** por produto e país
 - Análise voltada para relatórios financeiros, com ênfase em lucratividade por produto e país ao longo dos trimestres.
 
+![Pagina 2](./Images/Pagina%202%20-%20Lucro.PNG)
+
 ### Página de **Detalhe de Vendas**
 - **Segmentação por produto**:
   - Subsegmentada em **país, trimestre, nível de desconto** e outros filtros.
 - Foco na análise detalhada de vendas para fornecer insights aprofundados sobre desempenho por categorias.
+
+![Pagina 3](./Images/Pagina%203%20-%20Detalhe%20de%20Vendas.PNG)
+
