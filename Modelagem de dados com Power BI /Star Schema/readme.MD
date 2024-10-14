@@ -3,7 +3,7 @@
 Este projeto envolve a modelagem de um **Star Schema** para facilitar a análise de dados relacionados aos professores em uma instituição de ensino. O objetivo é organizar as informações de forma otimizada para consultas e relatórios, utilizando uma abordagem dimensional.
 Além disso, a partir do diagrama original, foram eliminadas tabelas sem necessidade, como por exemplo, informações de "aluno".
 
-![STAR SCHEMA](/Star%20Schema.PNG)
+![STAR SCHEMA](./Star%20Schema.PNG)
 
 ## Estrutura do Star Schema
 
