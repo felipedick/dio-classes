@@ -11,7 +11,7 @@ Abaixo um print da base hospedada no Azure.
 
 ![Databases e Tabelas](./Images/Azure%20part2%20Databases%20%26%20Tables.PNG)
 
-![Conteudo Tabela](.Images/Azure%20part3%20conteudo%20tabela.PNG)
+![Conteudo Tabela](./Images/Azure%20part3%20conteudo%20tabela.PNG)
 
 ## Principais Etapas de Limpeza e Transformação
 
@@ -51,7 +51,7 @@ A integração foi feita diretamente no **Power BI**, conectando-se ao banco de 
 
 Após a limpeza e transformação dos dados, a base pode ser utilizada para gerar relatórios e dashboards no Power BI, que proporcionaram insights valiosos. 
 
-![Relatório](/Power%20BI%20Relatorio.PNG)
+![Relatório](./Power%20BI%20Relatorio.PNG)
 
 ## Ferramentas Utilizadas
 
