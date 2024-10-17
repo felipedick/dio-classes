@@ -1,7 +1,7 @@
-# package_name
+# Pacote Conta Bancária
 
-Description. 
-O pacote foi feito para implementação de um modelo de pacote simples util:
+Descrição. <br>
+O pacote foi feito para implementação de um modelo de pacote simples:
 	- 
 	-
 
