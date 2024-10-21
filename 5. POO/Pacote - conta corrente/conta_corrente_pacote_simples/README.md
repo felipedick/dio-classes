@@ -1,9 +1,9 @@
-# package_name
+# Pacote - conta bancaria
 
 Description. 
 O pacote foi feito para implementacao de um modelo de pacote simples util: <br>
 	- Simulacao de uma conta bancária
-	-
+	
 
 ## Installation
 
