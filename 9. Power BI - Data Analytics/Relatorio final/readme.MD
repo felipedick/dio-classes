@@ -7,11 +7,11 @@ Este projeto foi desenvolvido em Power BI para entrega do desafio final do bootc
 ### 1. Capa com Botões de Navegação
 - **Descrição**: A página inicial do dashboard possui botões interativos que facilitam a navegação entre as diferentes páginas do relatório, tornando a experiência mais intuitiva para o usuário.
 
-### 2. Página de Vendas
-- **Métricas por Semestre**: Foi implementada uma métrica que permite a alternância entre visualização por **mês** ou **semestre**, utilizando uma variável de agrupamento criada a partir do nome dos meses.
-
-### 3. Página de Detalhamento de Produto
+### 2. Página de Detalhamento de Produto
 - **Filtro de Produto**: Essa página permite a seleção de **apenas um produto por vez**, proporcionando um detalhamento claro e preciso das informações de vendas para cada item.
+
+### 3. Métrica por semestre
+- **Métricas por Semestre**: Foi implementada utilizando uma variável de agrupamento criada a partir do nome dos meses.
 
 ### 4. Histograma de Frequência de Volume de Vendas por Pedido
 - **Compartimentação de Dados**: O histograma exibe a distribuição do volume de vendas por pedido, utilizando técnicas de compartimentação para agrupar os dados em intervalos definidos.
