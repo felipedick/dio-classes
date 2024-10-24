@@ -59,4 +59,8 @@ Este projeto implementa um **Sistema Bancário** utilizando os princípios da **
 
 ## Diagrama de Classes
 Aqui está uma representação visual da estrutura de classes do projeto:
-![Diagrama de Classes](Trilha%20Python%20-%20desafio.png)
+![Diagrama de Classes](./Images/Trilha%20Python%20-%20desafio.png)
+
+## Implementação
+Aqui está um print da implementação do código, mostrando os resultados obtidos.
+![Resultados](./Images/Trilha%20Python%20-%20desafio.png)
